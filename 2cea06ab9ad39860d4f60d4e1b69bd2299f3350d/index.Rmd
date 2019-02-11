@@ -1,0 +1,200 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    css: styles.css
+    theme: "black"
+    self_contained: false
+    reveal_plugins: ["notes"]
+    reveal_options:
+      overview: true
+      slideNumber: true
+---
+
+## GOVERNMENT OPEN DATA  
+**Jason Jones**  
+*Analytics & Innovation Manager*  
+*Guilford County Government*  
+  
+  
+![](images/excited.gif)
+
+## OUTLINE 
+  
+- Open Data: Past and Present
+- Open Government
+- Musings on Future  
+- Your Turn  
+![](images/punch.gif)
+
+## WHAT IS OPEN DATA?  
+> "Open data means data that is available online, in an open format, with no legal encumbrances on use or reuse, and is available for all to access and download in full without fees or a requirement of registration."  
+
+<div class="footer", style="font-size: 60%;"> 
+Source: http://opendata.myguilford.com/dataset/open-data-policy-and-governance/resource/99be58db-5051-44bd-aad0-77fc36b07e5e
+</div>
+
+## FIRST MENTION  
+>"The term open data appeared for the first time in 1995...about the disclosure of geophysical and environmental data...before being a technical object or political movement, open data was rooted in the praxis of the scientific community. Researchers were the first who perceived the benefit of openness and of sharing of data."
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## PUBLIC SECTOR EMERGENCE  
+In 2007, some people got together north of San Francisco and decided...  
+
+>"The basic idea is that public data are a common property, in the same way as scientific ideas...directly inspired by the approach and practice of open source, built on three concepts: openness, participation and collaboration."
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## THANKS OBAMA
+- Signed two presidential memoranda concerning open government
+- Open source culture foundation: transparency, participation, and collaboration 
+- Direct connection/reference to 2007 meeting
+
+![](images/obama.gif)
+
+## THE PRESENT
+- Not as broadly adopted as you would hope
+- Primarily about transparency, less about collaboration
+
+<img src="images/map.png", style="width:75%;height:75%;">
+
+<div class="footer", style="font-size: 60%;">
+Source: http://www.opendatapolicies.org/browse/
+</div>
+
+## THE PRESENT
+- Meaningful implementation is difficult
+- Data skills & literacy gap (internal & external)
+- Most useful data is often most protected
+- All about trust & relationships
+
+![](images/trust.gif)
+
+## BONUS SLIDE: POPULAR DATA
+<img src="images/popular_open_data.png", style="width:500px;height:600px;">
+
+## WHAT IS OPEN GOVT?  
+- High levels of transparency
+- Mechanisms for public scrutiny and oversight
+- Emphasis on accountability
+- Increased citizen participation & collaboration
+
+<img src="images/permit.gif", style="width:50%;height:50%;">
+
+<div class="footer", style="font-size: 60%;">
+Source: https://opensource.com/resources/open-government
+</div>
+
+## THE DISTINCTION IS IMPORTANT  
+- You **CAN** have open data w/out open govt
+- You **CAN NOT** have open govt w/out open data  
+
+![](images/swanson.gif)  
+The combination of open data & open government will not be the exception, it will be the expectation
+
+## THE FUTURE OF OPEN DATA  
+<div class="myrow">
+  <div class="mycolumn">
+  >"...the goal isn’t anymore to change the world through data but to try, more modestly, to modernize public action."
+  
+  </div>
+  <div class="mycolumn">
+  
+  ![](images/boom.gif)
+  
+  </div>
+</div>
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## BUT HOW?
+- **Joy's Law:** There is cumulatively more knowledge and talent outside of an organization than in it
+- Look towards the sharing economy as a model
+- Shifting towards more **participation and collaboration**
+
+<img src="images/share.gif", style="width:40%;height:40%;">
+
+<div class="footer", style="font-size: 60%;">
+Source: http://elgl.org/2016/03/13/break-it-down-open-data-and-the-sharing-economy/
+</div>
+
+## BUT DON'T FORGET
+>"What is measurable isn't the same as what is valuable"  
+
+![](images/numbers_need_stories.jpeg)  
+Local government will become increasingly responsible for gathering & providing sufficient context
+
+<div class="footer", style="font-size: 60%;">
+Source: https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7
+</div>
+
+## THICK DATA
+>"Thick Data is data brought to light using qualitative, ethnographic research methods that uncover people’s emotions, stories, and models of their world."
+
+![](images/thick_data.jpeg)
+
+<div class="footer", style="font-size: 60%;">
+Source: https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7
+</div>
+
+## GETTING THERE
+
+![](images/tde-funnel-grid.png)
+
+<div class="footer", style="font-size: 60%;">
+Source: https://sunlightfoundation.com/2017/09/19/introducing-a-guide-to-tactical-data-engagement/
+</div>
+
+## SHAMELESS PLUG
+![](images/insight.png)
+
+Link: http://opendata.myguilford.com/
+
+## BUILDING THE FUTURE - WITH YOU!  
+<div class="myrow">
+  <div class="mycolumn">
+We want our data to be:  
+
+- Useful
+- Usable
+- Used 
+
+  </div>
+  <div class="mycolumn">
+  
+  ![](images/simple.gif)
+  
+  </div>
+</div>
+
+## HOW CAN YOU HELP?  
+I'm so glad you asked!
+
+<div style="column-count: 2;">
+<div style="float: left;">
+![](images/data_story.png)
+</div>
+
+<div style="float: right:">
+![](images/story.png)
+</div>
+</div>
+
+<div class="footer", style="font-size: 60%;"> 
+Source: http://stories.datarefuge.org/
+</div>
+
+## THANK YOU SO MUCH!
+</br>
+Email: jjones6@guilfordcountync.gov  
+Office: (336) 641-6078  
+  
+Twitter: @packpridejones  
+
+![](images/thanks.gif)
